@@ -1,6 +1,10 @@
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" align="right" width="400">
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">### 👨‍💻 4th Year CS Student | Full-Stack Developer | Tech Enthusiast 💡 Passionate about **building scalable web apps** using **Angular & Spring Boot** 🛠️ Currently working on a **VR-based fitness training management system** 🎯 Looking for **on-site internships at startups** 📚 Enjoy solving **DSA problems & exploring new technologies**</h3>
+<h3 align="center">### 👨‍💻 4th Year CS Student | Full-Stack Developer | Tech Enthusiast 
+  <br>💡 Passionate about **building scalable web apps** using **Angular & Spring Boot** 
+  <br>🛠️ Currently working on a **VR-based fitness training management system** 
+  <br>🎯 Looking for **on-site internships at startups** 
+  <br>📚 Enjoy solving **DSA problems & exploring new technologies**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-web-git&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-web-git" /> </p>
 
@@ -34,12 +38,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-web-git&show_icons=true&locale=en" alt="abhishek-web-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-web-git&" alt="abhishek-web-git" /></p>
+
 
 <h3 align="left">🚀 Projects:</h3>
 - **Job Portal** (Full-Stack Web App) 🌍
   - Tech Stack: **React.js, Node.js, MongoDB, Express.js**
   - Features: Job search, apply for jobs, employer dashboard
+
+  - **VR Based Fitness Training Management System** (Full-Stack)
+    - Tech Staack: **Angular, SpringBoot, MySql, Java**
+    - Features: **How to growth your body with VR
 
 - **Portfolio Website** 🎨
   - Tech Stack: **HTML, CSS, JavaScript**
