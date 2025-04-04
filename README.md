@@ -5,7 +5,10 @@
   <br>🛠️ Currently working on a **VR-based fitness training management system** 
   <br>🎯 Looking for **on-site internships at startups** 
   <br>📚 Enjoy solving **DSA problems & exploring new technologies**</i></p>
+  ----
 
+
+### 🔥 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-web-git&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-web-git" /> </p>
 
 - 🔭 I’m currently working on **VR Based fitness training management System**
