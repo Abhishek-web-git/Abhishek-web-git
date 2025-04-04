@@ -36,3 +36,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-web-git&" alt="abhishek-web-git" /></p>
 
+<h3 align="left">🚀 Projects:</h3>
+- **Job Portal** (Full-Stack Web App) 🌍
+  - Tech Stack: **React.js, Node.js, MongoDB, Express.js**
+  - Features: Job search, apply for jobs, employer dashboard
+
+- **Portfolio Website** 🎨
+  - Tech Stack: **HTML, CSS, JavaScript**
+  - Features: Personal portfolio showcasing my work & skills
+
+- **E-commerce Website** 🛒
+  - Tech Stack: **MERN Stack**
+  - Features: User authentication, cart management, payment integration
+
